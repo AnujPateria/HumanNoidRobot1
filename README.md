@@ -1,6 +1,8 @@
 # 🤖 Kritrim: AI-Driven Multilingual Humanoid Robot
 
 > **Team Ourobonics** | **SIH 2025 Grand Finalists**
+> ![WhatsApp Image 2025-11-25 at 00 36 26_edaedef1](https://github.com/user-attachments/assets/bbe8c5e8-7ee5-4846-a6eb-50a90900cfa6)
+
 >
 > **Theme:** Smart Automation | **Problem Statement ID:** 25117
 >
