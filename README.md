@@ -40,10 +40,9 @@ Unlike existing global solutions that cost between ₹20-60 Lakh, Kritrim provid
 ### Software & AI
 * **Languages:** Python, C++
 * **Robotics Framework:** ROS (Robot Operating System)
-* **Computer Vision:** OpenCV, TensorFlow Lite
-* **NLP & Voice:** HuggingFace, Vosk / Google Speech-to-Text
+* **NLP & Voice:** WebRTC
 * **Real-Time Comms:** LiveKit
-* **Cloud/Backend:** AWS, Firebase
+* **Cloud** Google Cloud 
 
 ---
 
