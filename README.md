@@ -53,7 +53,7 @@ The system operates on a continuous feedback loop comprising four main stages:
 ```mermaid
 graph TD
     A[Perception] -->|Audio & Visual Data| B(Processing)
-    B -->|OpenCV/TF Lite| C{Decision Engine}
+    B -->|OpenCV| C{Decision Engine}
     B -->|LiveKit Streaming| C
     C -->|Emotion AI & NLP| D[Action]
     D -->|Servo Actuation| E[Gesture]
